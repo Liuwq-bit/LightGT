@@ -9,8 +9,8 @@ If you want to use our codes and datasets in your research, please cite:
 @inproceedings{LightGCN,
   title     = {LightGT: A Light Graph Transformer for Multimedia Recommendation},
   author    = {Wei, Yinwei and 
-  			   Liu, Wenqi and
-  			   Liu, Fan and
+               Liu, Wenqi and 
+               Liu, Fan and 
                Wang, Xiang and 
                Nie, Liqiang and 
                Chua, Tat-Seng},
