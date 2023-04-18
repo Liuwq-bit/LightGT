@@ -5,26 +5,10 @@ This is our Pytorch implementation for the paper:
 ## Citation
 If you want to use our codes and datasets in your research, please cite:
 
-``` 
-@inproceedings{LightGCN,
-  title     = {LightGT: A Light Graph Transformer for Multimedia Recommendation},
-  author    = {Wei, Yinwei and 
-               Liu, Wenqi and 
-               Liu, Fan and 
-               Wang, Xiang and 
-               Nie, Liqiang and 
-               Chua, Tat-Seng},
-  year      = {2023}
-}
-```
-
 
 ## Environment Requirement
 The code has been tested running under Python 3.8.15. The required packages are as follows:
 - Pytorch == 1.7.0
-- torch-cluster == 1.5.9
-- torch-scatter == 2.0.7
-- torch-sparse == 0.6.9
 - numpy == 1.23.4
 
 ## Example to Run the Codes
@@ -44,9 +28,9 @@ Since the copyright of datasets, we cannot release them directly.
 
 ||#Interactions|#Users|#Items|Visual|Acoustic|Textual|
 |:-|:-|:-|:-|:-|:-|:-|
-|Kwai|1,664,305|22,611|329,510|2,048|-|100|
-|Tiktok|726,065|36,656|76,085|128|128|128|
 |Movielens|1,239,508|55,485|5,986|2,048|128|100|
+|Tiktok|726,065|36,656|76,085|128|128|128|
+|Kwai|1,664,305|22,611|329,510|2,048|-|100|
 
 -`train.npy`
    Train file. Each line is a user with her/his positive interactions with items: (userID and micro-video ID)  
