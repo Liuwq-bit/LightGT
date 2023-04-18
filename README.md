@@ -2,10 +2,6 @@
 This is our Pytorch implementation for the paper:  
 > Yinwei Wei, Wenqi Liu, Fan Liu, Xiang Wang, Liqiang Nie and Tat-Seng Chua (2023). LightGT: A Light Graph Transformer for Multimedia Recommendation. In ACM SIGIR`23, Taipei, July. 23-27, 2023  
 
-## Citation
-If you want to use our codes and datasets in your research, please cite:
-
-
 ## Environment Requirement
 The code has been tested running under Python 3.8.15. The required packages are as follows:
 - Pytorch == 1.7.0
