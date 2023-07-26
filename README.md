@@ -8,12 +8,12 @@ If you want to use our codes and datasets in your research, please cite:
 ``` 
 @inproceedings{LightGT,
   title     = {LightGT: A Light Graph Transformer for Multimedia Recommendation},
-  author    = {Wei, Yinwei and 
-			   Liu, Wenqi and 
-			   Liu, Fan and 
-			   Wang, Xiang and 
-			   Nie, Liqiang and 
-			   Chua, Tat-Seng},
+  author    = {Wei, Yinwei and
+               Liu, Wenqi and 
+               Liu, Fan and 
+               Wang, Xiang and 
+               Nie, Liqiang and 
+               Chua, Tat-Seng},
   booktitle = {Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval},
   pages     = {1508–1517},
   year      = {2023}
