@@ -1,6 +1,8 @@
 # LightGT: A Light Graph Transformer for Multimedia Recommendation
-This is our Pytorch implementation for the [paper](https://dl.acm.org/doi/10.1145/3539618.3591716):  
-> Yinwei Wei, Wenqi Liu, Fan Liu, Xiang Wang, Liqiang Nie and Tat-Seng Chua (2023). LightGT: A Light Graph Transformer for Multimedia Recommendation. In ACM SIGIR`23, Taipei, July. 23-27, 2023  
+This is our Pytorch implementation for the [LightGT](https://dl.acm.org/doi/10.1145/3539618.3591716):  
+> Yinwei Wei, Wenqi Liu, Fan Liu, Xiang Wang, Liqiang Nie and Tat-Seng Chua (2023). LightGT: A Light Graph Transformer for Multimedia Recommendation. In ACM SIGIR`23, Taipei, July. 23-27, 2023
+
+<img src="https://github.com/Liuwq-bit/LightGT/image/figure1.png" width="50%" height="50%"><img src="https://github.com/Liuwq-bit/LightGT/image/figure2.png" width="50%" height="50%">
 
 ## Citation
 If you want to use our codes and datasets in your research, please cite:
