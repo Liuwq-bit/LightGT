@@ -46,6 +46,8 @@ Since the copyright of datasets, we cannot release them directly.
 |Tiktok|726,065|36,656|76,085|128|128|128|
 |Kwai|1,664,305|22,611|329,510|2,048|-|100|
 
+It is worth noting that [MMGCN](https://github.com/weiyinwei/MMGCN) provides corresponding toy datasets that can be used for research.
+
 -`train.npy`
    Train file. Each line is a user with her/his positive interactions with items: (userID and micro-video ID)  
 -`val.npy`
