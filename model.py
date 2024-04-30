@@ -45,7 +45,7 @@ class LightGCN(nn.Module):
             if layer < self.n_layers:
                 embs.append(all_emb)
 
-            for i in range(self.transformer_layers):
+            for i in range(layer, self.transformer_layers):
                 embs_mean[i].append(all_emb)
             # embs_mean[layer].append(all_emb)
 
